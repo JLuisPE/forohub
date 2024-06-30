@@ -39,7 +39,8 @@ public class Respuesta {
 
     public Respuesta(NuevaRespuesta nuevaRespuesta) {
         this.mensaje = nuevaRespuesta.mensaje();
-        this.fechaCreacion = nuevaRespuesta.fechaCreacion();
+        this.topico = nuevaRespuesta.topico();
+        this.fechaCreacion = LocalDateTime.now();
         this.autor = nuevaRespuesta.usuario();
         this.solucion = true;
     }
