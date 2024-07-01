@@ -135,7 +135,13 @@ DELETE /cursos/{id}
 ### Listado de Gestiones
 ![Listado de Tópicos](images/Swagger.png)
 
-## Autor
-<p>&copy José Luis Pineda 
-            <a href="https://www.linkedin.com/in/jlpineda"><img class="linkeind" src="imagenes/logo-linkedIn.png" alt="Logo linkedin"></a></p>
+### Tablas
+![Diagrama de tablas](images/Tablas.png)
 
+## Autor
+
+<p>&copy; José Luis Pineda 
+    <a href="https://www.linkedin.com/in/jlpineda">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="Logo LinkedIn" style="width:20px; height:20px;">
+    </a>
+</p>
